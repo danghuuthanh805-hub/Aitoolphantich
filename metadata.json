@@ -1,0 +1,6 @@
+{
+  "name": "Game Creation Blueprint Tool",
+  "description": "Interactive AI-powered tool to generate detailed game prompts, character image prompts, success/error predictions, backend stack recommendations, and core technical mechanics for design and Vibe Coding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
